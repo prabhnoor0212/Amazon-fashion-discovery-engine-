@@ -1,5 +1,7 @@
 # Amazon-fashion-discovery-engine
-<h2> [Implementation] (https://github.com/prabhnoor0212/Amazon-fashion-discovery-engine-/blob/master/Code.ipynb) 
+
+[Implementation](https://github.com/prabhnoor0212/Amazon-fashion-discovery-engine-/blob/master/Code.ipynb)
+
 <h2> Features Used </h2>
   <ol>
   <li> asin  ( Amazon standard identification number) </li>
